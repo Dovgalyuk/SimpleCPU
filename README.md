@@ -8,6 +8,7 @@
 * 4-bit CPU: https://minnie.tuhs.org/Programs/CrazySmallCPU/
 * https://en.wikipedia.org/wiki/One-instruction_set_computer
 * https://en.wikipedia.org/wiki/1-bit_computing
+* https://en.wikipedia.org/wiki/Bit_slicing
 
 ## Relays
 
