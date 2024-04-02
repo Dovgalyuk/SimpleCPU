@@ -5,6 +5,9 @@
 * https://ru.wikipedia.org/wiki/Motorola_MC14500B
 * https://github.com/naoto64/1bit-CPU
 * https://github.com/wuxx/TD4-4BIT-CPU
+* 4-bit CPU: https://minnie.tuhs.org/Programs/CrazySmallCPU/
+* https://en.wikipedia.org/wiki/One-instruction_set_computer
+* https://en.wikipedia.org/wiki/1-bit_computing
 
 ## Relays
 
