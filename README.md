@@ -19,4 +19,5 @@
 
 ## Промавтоматика
 
-* Модули Логика http://www.155la3.ru/logika_t.htm
+* Модули Логика-Т http://www.155la3.ru/logika_t.htm
+* Модули Логика-И http://www.155la3.ru/logika_i.htm
